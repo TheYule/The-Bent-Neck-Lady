@@ -1,0 +1,32 @@
+{
+    "command_unknown": [
+        "hrni seaamjd delijh lqnih"
+    ],
+    "command_error": [
+        "iealhrnjv ljh wgejv: ```{{error}}```"
+    ],
+    "command_cooldown": [
+        "blmil wmnh `{{cooldown}}` ilsejdi flzegl pinjv hrni seaamjd mvmnj"
+    ],
+    "command_guild_only": [
+        "hrni seaamjd smj ejbo fl pild nj m ilglg"
+    ],
+    "command_dms_only": [
+        "hrni seaamjd smj ejbo fl pild nj dai"
+    ],
+    "command_owners_only": [
+        "ejbo feh ejlgi smj pil hrni seaamjd"
+    ],
+    "command_blocked": [
+        "oep mgl fbescld zgea pinjv hrni seaamjd"
+    ],
+    "command_no_permission": [
+        "oep dejh rml wlganiinej he pil hrni seaamjd"
+    ],
+    "command_no_bot_permission": [
+        "n dejh rml wlganiinej he pil hrni seaamjd"
+    ],
+    "command_incorrect_usage": [
+        "blmil pil hrni seaamjd segglshbo: `{{usage}}``"
+    ]
+}
